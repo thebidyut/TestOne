@@ -1,0 +1,177 @@
+@media (max-width: 1200px) {
+
+    h5.aboutDec {
+        padding: 40px;
+    }
+    .heroImg {
+        width: 100%;
+    }
+    .sameservice p {
+        padding: 10px 16px;
+    }
+    .col-sm-6.col-md-4.lastImage {
+        display: block;
+    }
+    /* .nav-menu .drop-down .drop-down ul {
+        left: -90%;
+    }
+
+    .nav-menu .drop-down .drop-down:hover>ul {
+        left: -100%;
+    }
+
+    .nav-menu .drop-down .drop-down>a:after {
+        content: "\ea9d";
+    } */
+}
+@media(max-width: 1024px) {
+    h5.aboutDec {
+        padding: 15px 10px 0px 10px;
+        font-size: 18px;
+        line-height: 26px;
+        font-family: unset;
+    }
+    .sameservice p {
+        padding: 10px 10px;
+    }
+    .col-sm-6.col-md-4.lastImage {
+        display: block;
+    }
+
+}
+@media (max-width: 992px) {
+    h5.aboutDec {
+        padding: 15px;
+    }
+    .col-sm-6.col-md-4.lastImage {
+        display: block;
+    }
+    section {
+        padding: 20px 0 50px 0;
+    }
+    .section-title h2 {
+        margin: 20px 0 20px 0;
+    }
+
+}
+@media (max-width: 768px) {
+    .col-lg-6.d-lg-flex.flex-lg-column.justify-content-center.align-items-stretch.pt-5.pt-lg-0.order-2.order-lg-1 {
+        padding-top: 30px !important;
+    }
+    #hero{
+        text-align: center;
+    }
+    #hero .hero-img img {
+        width: 70%;
+        margin-top: -34px;
+    }
+    #hero h1{
+        font-size: 36px;
+    }
+    p.heroP {
+        padding: 0 125px;
+    }
+    p.clientEyeCatchy {
+        padding: 0 85px;
+    }
+    h5.aboutDec {
+        font-size: 20px;
+        margin-top: 20px;
+        padding: 40px 40px 10px 40px;
+    }
+    .sameservice {
+        padding: 0 16px;
+    }
+    .sameservice p {
+        padding: 10px 2px;
+    }
+    .col-sm-6.col-md-4.lastImage {
+        display: block;
+    }
+    img.aboutImage {
+        margin-top: 0px;
+    }
+    iframe.bidyutMap {
+        margin-top: 20px;
+    }
+    a.facebook {
+        margin-bottom: 5px;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .col-lg-6.d-lg-flex.flex-lg-column.justify-content-center.align-items-stretch.pt-5.pt-lg-0.order-2.order-lg-1 {
+        padding-top: 25px !important;
+    }
+    #hero {
+        padding: 130px 0 70px 0;
+    }
+    #hero h1 {
+        font-size: 34px;
+        margin: 0;
+    }
+    p.heroP {
+        padding: 0 35px;
+    }
+    p.heroSkill {
+        display: none;
+    }
+    p.clientEyeCatchy {
+        padding: 5px 50px;
+    }
+    h5.aboutDec {
+        padding: 40px 20px 10px 40px;
+    }
+    .sameservice {
+        padding: 0 10px;
+    }
+    .col-sm-6.col-md-4.lastImage {
+        display: none;
+    }
+    .work {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 470px) {
+    p.heroP {
+        padding: 0 18px;
+    }
+    p.clientEyeCatchy {
+        padding: 5px 16px;
+    }
+    .sameservice p {
+        padding: 10px 30px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 375px) {
+    #hero h2 {
+        font-size: 20px;
+    }
+    .button {
+        font-size: 14px;
+    }
+}
+@media (max-width: 360px) {
+    .col-lg-6.d-lg-flex.flex-lg-column.justify-content-center.align-items-stretch.pt-5.pt-lg-0.order-2.order-lg-1 {
+        padding-top: 15px !important;
+    }
+    #hero h1 {
+        font-size: 30px;
+    }
+    #hero h2 {
+        font-size: 18px;
+    }
+    p.heroP {
+        padding: 0 18px;
+        font-size: 14px;
+    }
+    p.clientEyeCatchy {
+        font-size: 15px;
+    }
+    .button {
+        font-size: 14px;
+    }
+}
